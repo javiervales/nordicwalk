@@ -9,7 +9,7 @@
 
 ## Paper materials
 <ul>
-  <li> <b>*.csv</b>: 
+  <li> <b>*.csv</b>: raw data files
 </ul>
 
 Feel free to reach out to the author (javier.vales@upct.es).
