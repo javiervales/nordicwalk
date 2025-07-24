@@ -12,7 +12,8 @@
   <li> <b>*.csv</b>: raw data files
 </ul>
 
-Feel free to reach out to the author (javier.vales@upct.es).
+> **Note:** The CSV files included in this repository have been limited to a maximum size of 25 MB due to GitHub file size restrictions.  
+> If you are interested in accessing the full-resolution data files, feel free to contact the authors via email (javier.vales@upct.es).
 
 Please, cite as:
 
